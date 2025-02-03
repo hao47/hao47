@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daffa 
 - 👀 Full-stack web development.
-- 🌱 Currently learning React Native and ML.
+- 🌱 Currently learning ML.
 - 📫 How to reach me -> daffarobani73@gmail.com
 
 <!---
